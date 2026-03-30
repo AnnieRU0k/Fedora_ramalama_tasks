@@ -1,5 +1,5 @@
 
-## **Fedora RamaLama Task: Model Execution & Troubleshooting**
+## **Fedora RamaLama Task: Model Execution and Troubleshooting**
 
 The goal of this task is to demonstrate the ability to run Large Language Models (LLMs) on Fedora using the RamaLama tool. 
 I explored two models registries (Hugging Face and Ollama) and documented the process of managing local OCI-compliant model storage.
