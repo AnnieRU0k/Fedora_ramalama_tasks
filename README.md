@@ -1,7 +1,6 @@
 
 ## **Fedora RamaLama Task: Model Execution & Troubleshooting**
 
-Project Objective
 The goal of this task is to demonstrate the ability to run Large Language Models (LLMs) on Fedora using the RamaLama tool. 
 I explored two models registries (Hugging Face and Ollama) and documented the process of managing local OCI-compliant model storage.
 
@@ -15,6 +14,7 @@ Tool: RamaLama CLI (v0.17.1)
 Hardware: 8GB RAM / Btrfs Filesystem
 
 ## **Successful Model Runs**
+
 **Ollama Registry (TinyLlama)**
 I successfully pulled and ran the TinyLlama model using the ollama:// transport. 
 The model correctly identified the four foundations of the Fedora Project (Software, Community, Integration, and Delivery).
